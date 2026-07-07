@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 streamlit 
-tensorflow
+tensorflow==2.19.0
 joblib
 pandas
 numpy
 scikit-learn
 category-encoders
-=======
-streamlit 
-joblib
-pandas
-numpy
-scikit-learn
-tensorflow== 2.19.0
->>>>>>> 512c9c83df8dc26d49c420b8ebc6197ea2e4cb7c
